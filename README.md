@@ -17,10 +17,10 @@ I work at the intersection of healthcare operations and data science, building a
 
 ## Tech Stack
 
-**Languages:** Python, R, SQL
-**ML/Data:** scikit-learn, XGBoost, pandas, NumPy, Prophet, SMOTE, BERTopic, Sentence-BERT
-**Tools:** AWS (S3, SageMaker), Streamlit, Google Sheets API, Tableau, Git
-**Focus areas:** MLOps, time series forecasting, NLP, database design, data pipeline automation
+- **Languages:** Python, R, SQL
+- **ML/Data:** scikit-learn, XGBoost, pandas, NumPy, Prophet, SMOTE, BERTopic, Sentence-BERT
+- **Tools:** AWS (S3, SageMaker), Streamlit, Google Sheets API, Tableau, Git
+- **Focus areas:** MLOps, time series forecasting, NLP, database design, data pipeline automation
 
 ---
 
